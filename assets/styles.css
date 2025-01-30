@@ -8,7 +8,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #00ffee;
+    background-color: #ff7700;
 }
 
 ::-webkit-scrollbar-track {
@@ -89,7 +89,7 @@ header nav ul a::after {
     position: absolute;
     width: 0;
     height: 2px;
-    background-color: #00ffee;
+    background-color: #ff7700;
     bottom: -2px;
     left: 0;
     transition: width 0.4s ease-in-out;
@@ -112,7 +112,7 @@ main {
     background-color: black;
     text-align: center;
     font-size: 25px;
-    color: #00ffee;
+    color: #ff7700;
     width: 100%;
     align-items: center;
     display: flex;
@@ -143,7 +143,7 @@ main {
 }
 
 span {
-    color: #00ffee;
+    color: #ff7700;
 }
 
 .About {
@@ -151,8 +151,8 @@ span {
     margin: 50px;
     margin-top: 0;
     padding: 60px;
-    border: 3px solid #00ffee;
-    box-shadow: 0 0 10px #00ffee;
+    border: 3px solid #ff7700;
+    box-shadow: 0 0 10px #ff7700;
     display: flex;
     gap: 30px;
     color: white;
@@ -179,7 +179,7 @@ span {
 }
 
 .progression-bar {
-    border: 5px solid #00ffee;
+    border: 5px solid #ff7700;
     border-radius: 5px;
 }
 
@@ -194,15 +194,15 @@ span {
     top: 1rem;
     width: 280px;
     border-radius: 50%;
-    box-shadow: 0 0 25px #00ffee;
+    box-shadow: 0 0 25px #ff7700;
     cursor: pointer;
     transition: 0.4s ease-in-out;
     max-height: 50%;
 }
 
 .Aboutme img:hover {
-    box-shadow: 0 0 25px #00ffee,
-        0 0 50px #00ffee;
+    box-shadow: 0 0 25px #ff7700,
+        0 0 50px #ff7700;
 }
 
 #Projects {
@@ -235,8 +235,8 @@ span {
     background: white;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.082);
-    border: 3px solid #00ffee;
-    box-shadow: 0 0 10px #00ffee;
+    border: 3px solid #ff7700;
+    box-shadow: 0 0 10px #ff7700;
     background-color: #131313;
     color: white;
 }
@@ -275,9 +275,9 @@ span {
 .contact-card {
     background-color: black;
     padding: 70px;
-    border: 3px solid #00ffee;
+    border: 3px solid #ff7700;
     margin: 50px;
-    box-shadow: 0 0 10px #00ffee;
+    box-shadow: 0 0 10px #ff7700;
     border-radius: 50px;
     margin-top: 0;
 }
@@ -306,8 +306,8 @@ span {
     color: white;
     background: #131313;
     border-radius: 2rem;
-    border: 3px solid #00ffee;
-    box-shadow: 0 0 10px #00ffee;
+    border: 3px solid #ff7700;
+    box-shadow: 0 0 10px #ff7700;
     margin: 1rem 0;
     resize: none;
 }
@@ -316,15 +316,15 @@ span {
     margin-top: 2rem;
     height: 65px;
     width: 50%;
-    background-color: #00ffee;
+    background-color: #ff7700;
     border-radius: 50px;
     font-size: 1.2rem;
-    border: #00ffee96 2px solid;
+    border: #ff7700 2px solid;
     transition: 0.3s ease-in-out;
 }
 
 .contact form .btn:hover {
-    box-shadow: 0 0 10px #00ffee;
+    box-shadow: 0 0 10px #ff7700;
     transform: scale(1.05);
     transition: 0.4s ease-in-out;
 }
@@ -340,13 +340,13 @@ span {
 .footer .social {
     text-align: center;
     padding-bottom: 5px;
-    color: #00ffee;
+    color: #ff7700;
 }
 
 .footer .social a {
     font-size: 25px;
-    color: #00ffee;
-    border: 3px solid #00ffee;
+    color: #ff7700;
+    border: 3px solid #ff7700;
     width: 42px;
     height: 42px;
     line-height: 42px;
@@ -359,9 +359,9 @@ span {
 
 .footer .social a:hover {
     transform: scale(1.2)translateY(-10px);
-    background-color: #00ffee;
+    background-color: #ff7700;
     color: black;
-    box-shadow: 0 0 25px #00ffee;
+    box-shadow: 0 0 25px #ff7700;
 }
 
 .footer .copyright {
@@ -372,7 +372,7 @@ span {
 }
 
 strong {
-    color: #00ffee;
+    color: #ff7700;
 }
 
 @keyframes typing {
